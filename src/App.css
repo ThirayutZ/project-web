@@ -1,0 +1,19 @@
+.app-header{
+   background-color: greenyellow;
+   border-bottom: 1px solid gray;
+   height: 50px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.app-background{
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+.textboxclass {
+  height: 30px;
+  width: 800px;
+  margin: auto;
+  }
